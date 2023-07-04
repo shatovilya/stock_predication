@@ -1,0 +1,9 @@
+pandas
+numpy
+datetime
+scikit-learn
+more-itertools
+plotly
+nbformat
+ipykernel
+jupyter
