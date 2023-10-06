@@ -7,3 +7,4 @@ plotly
 nbformat
 ipykernel
 jupyter
+investpy==0.9.14
